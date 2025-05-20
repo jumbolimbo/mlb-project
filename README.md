@@ -30,7 +30,7 @@ This is treated as a **3-class classification problem**.
 
 ---
 
-## ⚙Models Trained
+## Models Trained
 
 -  Logistic Regression (baseline)
 -  XGBoost Classifier (final)
